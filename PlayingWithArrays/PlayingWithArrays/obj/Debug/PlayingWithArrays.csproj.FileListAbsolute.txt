@@ -1,0 +1,6 @@
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithArrays\PlayingWithArrays\bin\Debug\PlayingWithArrays.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithArrays\PlayingWithArrays\bin\Debug\PlayingWithArrays.exe
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithArrays\PlayingWithArrays\bin\Debug\PlayingWithArrays.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithArrays\PlayingWithArrays\obj\Debug\PlayingWithArrays.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithArrays\PlayingWithArrays\obj\Debug\PlayingWithArrays.exe
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithArrays\PlayingWithArrays\obj\Debug\PlayingWithArrays.pdb
