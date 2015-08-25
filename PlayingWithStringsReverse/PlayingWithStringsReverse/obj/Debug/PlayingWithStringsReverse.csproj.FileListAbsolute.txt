@@ -1,0 +1,6 @@
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithStringsReverse\PlayingWithStringsReverse\bin\Debug\PlayingWithStringsReverse.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithStringsReverse\PlayingWithStringsReverse\bin\Debug\PlayingWithStringsReverse.exe
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithStringsReverse\PlayingWithStringsReverse\bin\Debug\PlayingWithStringsReverse.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithStringsReverse\PlayingWithStringsReverse\obj\Debug\PlayingWithStringsReverse.exe
+c:\users\andrew\documents\visual studio 2013\Projects\PlayingWithStringsReverse\PlayingWithStringsReverse\obj\Debug\PlayingWithStringsReverse.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\PlayingWithStringsReverse\PlayingWithStringsReverse\obj\Debug\PlayingWithStringsReverse.csprojResolveAssemblyReference.cache
